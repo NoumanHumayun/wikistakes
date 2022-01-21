@@ -1,0 +1,4 @@
+[
+  { "label": "Resume is available as view only", "value": "VIEW" },
+  { "label": "Resume is available as view & download", "value": "DOWNLOAD" }
+]
